@@ -1,0 +1,80 @@
+```
+class footballTeam {
+    constructor(clubName, country) {
+        this.clubName = clubName;
+        this.country = country;
+        this.invitedPlayers = [];
+    }
+
+    newAdditions(footballPlayers) {
+        let result = [];
+        for (const footballPlayer of footballPlayers) {
+
+            let [name, age, value] = footballPlayer.split('/');
+            let bool = true;
+            for (const player of this.invitedPlayers) {
+                if (player.name === name) {
+                    bool = false;
+                    if (player.value < value) {
+                        player.value = value;
+                    }
+                }
+            }
+            if (bool) {
+                this.invitedPlayers.push({name, age, value});
+                result.push(name);
+            }
+        }
+        return `You successfully invite ${result.join(', ')}.`;
+    }
+    signContract(selectedPlayer){
+        let [name,playerOffer] = selectedPlayer.split(`/`);
+        let bool = true;
+        for (const player of this.invitedPlayers) {
+        if (player.name === name){
+            bool = false;
+            if (player.value > playerOffer){
+                throw  new Error(`The manager's offer is not enough to sign a contract with ${name}, ${player.value - playerOffer} million more are needed to sign the contract!`);
+            }
+            player.value = "Bought";
+            return `Congratulations! You sign a contract with ${name} for ${playerOffer} million dollars.`
+        }
+        }
+        if (bool){
+            throw new Error(`${name} is not invited to the selection list!`)
+        }
+    }
+    ageLimit(name, age){
+        let bool = true;
+        for (const player of this.invitedPlayers) {
+            if (player.name === name) {
+                bool = false;
+                if (player.age < age){
+                    let difference = age - player.age;
+                    if (difference < 5){//bug
+                        return `${name} will sign a contract for ${difference} years with ${this.clubName} in ${this.country}!`
+                    }
+                    else if (difference > 5){//bug
+                        return  `${name} will sign a full 5 years contract for ${this.clubName} in ${this.country}!`
+
+                    }
+                }
+                else{
+                    return `${name} is above age limit!`
+                }
+            }
+        }
+        if (bool) {
+            throw new Error(`${name} is not invited to the selection list!`)
+        }
+    }
+    transferWindowResult(){
+        let result = ["Players list:"];
+        this.invitedPlayers.sort((a,b) => a.name.localeCompare(b.name));
+        for (const player of this.invitedPlayers) {
+            result.push(`Player ${player.name}-${player.value}`)
+        }
+        return result.join('\n');
+    }
+}
+```
