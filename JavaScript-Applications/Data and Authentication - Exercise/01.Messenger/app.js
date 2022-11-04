@@ -12,8 +12,9 @@ function attachEvents() {
     let result = [];
     Object.entries(data).forEach(([id,message]) =>{
 
-        result.push(message.author + ": " + message.content );
+        result.push(message.author + ": " + message.content )
     });
+
     textArea.textContent += result.join("\n");
     });
     submitBtn.addEventListener(`click`,async () =>{
