@@ -1,0 +1,15 @@
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\bin\Debug\net6.0\02_FootballBetting.exe
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\bin\Debug\net6.0\02_FootballBetting.deps.json
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\bin\Debug\net6.0\02_FootballBetting.runtimeconfig.json
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\bin\Debug\net6.0\02_FootballBetting.dll
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\bin\Debug\net6.0\02_FootballBetting.pdb
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.csproj.AssemblyReference.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.AssemblyInfoInputs.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.AssemblyInfo.cs
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.dll
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\refint\02_FootballBetting.dll
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.pdb
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\02_FootballBetting.genruntimeconfig.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Entity Framework Core\02.Entity Relations\01.Student System\02_FootballBetting\obj\Debug\net6.0\ref\02_FootballBetting.dll

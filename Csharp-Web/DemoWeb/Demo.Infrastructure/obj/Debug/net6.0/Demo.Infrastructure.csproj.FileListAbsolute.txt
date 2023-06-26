@@ -1,0 +1,14 @@
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.deps.json
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.runtimeconfig.json
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.dll
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfo.cs
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.dll
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\refint\Demo.Infrastructure.dll
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.genruntimeconfig.cache
+C:\Kaufland\Programming\SoftUni\Csharp-Web\DemoWeb\Demo.Infrastructure\obj\Debug\net6.0\ref\Demo.Infrastructure.dll

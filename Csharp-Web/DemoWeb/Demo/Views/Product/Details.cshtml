@@ -1,0 +1,10 @@
+﻿@using Demo.Models.Product;
+@model ProductViewModel
+@{
+    ViewBag.Title = $"{Model.Name} details";
+}
+
+<div>
+    <h2>@Model.Name</h2>
+    <h3>$@Model.Price</h3>
+</div>
